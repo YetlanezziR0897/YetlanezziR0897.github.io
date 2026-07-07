@@ -1,7 +1,7 @@
 # Yetlanezzi Robles
 ### Data Analyst | Turning Retail Data into Smarter Inventory & Sales Decisions
 
-📍 California, USA &nbsp;|&nbsp; 📩 yetlanezziroblescano@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yetlanezzi-analyst)
+📍 California, USA &nbsp;|&nbsp; 📩 yetlanezziroblescano@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yetlanezzi-analyst) &nbsp;|&nbsp; [GitHub](https://github.com/YetlanezziR0897)
 
 ---
 
@@ -59,18 +59,18 @@ Análisis de ~4,000 clientes de telecomunicaciones en Latinoamérica para identi
 
 ---
 
-### 🛍️ MercadoLibre: Análisis de Embudo y Retención
-**Herramientas:** SQL · Google Sheets
+### 🛍️ MercadoLibre: Análisis de Embudo de Conversión y Retención
+**Herramientas:** SQL · PostgreSQL · Google Sheets
 
 Análisis del comportamiento de usuarios en un embudo de conversión de 8 meses para 10 países de Latinoamérica.
 
 **Highlights:**
 - 🌎 10 países analizados (ene–ago 2025)
-- 🛒 Punto crítico de abandono en "Agregar al carrito": solo 11% de conversión vs 77% en "Seleccionar producto"
+- 🛒 Punto crítico de abandono en "Agregar al carrito": solo 11% vs 77% en "Seleccionar producto"
 - 📊 Retención D7: 85%+ — caída fuerte a 2–3% en D28
 - 🏆 Uruguay y México líderes en conversión; Brasil, Ecuador y Colombia con mayor oportunidad
 
-*Proyecto en proceso de publicación en GitHub*
+[🔗 Ver proyecto en GitHub](https://github.com/YetlanezziR0897/mercadolibre-funnel-analysis)
 
 ---
 
@@ -101,4 +101,4 @@ Análisis del comportamiento de usuarios en un embudo de conversión de 8 meses 
 
 *Abierta a oportunidades remotas como Data Analyst en retail, finanzas o turismo.*
 
-📩 yetlanezziroblescano@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yetlanezzi-analyst)
+📩 yetlanezziroblescano@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yetlanezzi-analyst) &nbsp;|&nbsp; [GitHub](https://github.com/YetlanezziR0897)
